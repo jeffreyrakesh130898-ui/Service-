@@ -1,5 +1,7 @@
 # HookCalc: Crane & Rigging Calculator
 
+Live app: https://jeffreyrakesh130898-ui.github.io/Service-/
+
 One app for crane operators, riggers and lift planners. It works on phones and laptops, and offline after the first visit.
 
 **Calculators:** crane capacity (% of chart with hook block and rigging), sling tension (length and height, angle, or off-centre load), load weight (plate, bar, pipe or tank with liquid, ISMB / HEB / IPE / W sections, volume, pieces), boom and radius with obstacle clearance, ground bearing for outriggers and crawlers with mat size, wind check for big-area loads, centre of gravity with two-point or tandem load share, parts of line, and a unit converter.
